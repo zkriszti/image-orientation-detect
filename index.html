@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class="" lang="en">
+	<head>
+		<link rel="canonical" href="https://codepen.io/zkriszti/pen/vpePKJ">
+		<link href="orientation.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Encode+Sans+Expanded" rel="stylesheet"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	<body onload="calculateOrientation()">
+		<div id='info'>This small script programmatically detects and displays orientation (landscape / portrait / square) for various images. After that, it also sorts them based on orientation.<span><em>Made with vanilla JS.</em></span></div>	
+		<div class='img-filmstrip'>
+			<div class='img-container'>
+				<img src='https://res.cloudinary.com/zkriszti/image/upload/v1515155404/orientation/pexels-photo-416163.jpg'>
+				<div class='orientation'></div>
+			</div>
+			<div class='img-container'>
+				<img src='http://res.cloudinary.com/zkriszti/image/upload/v1515155404/orientation/pexels-photo-459205.jpg'>
+				<div class='orientation'></div>
+			</div>
+			<div class='img-container'>
+				<img src='http://res.cloudinary.com/zkriszti/image/upload/v1515155404/orientation/pexels-photo-561870.jpg'>
+				<div class='orientation'></div>	
+			</div>
+			<div class='img-container'>
+				<img src='http://res.cloudinary.com/zkriszti/image/upload/v1515155404/orientation/pexels-photo-770599.jpg'>
+				<div class='orientation'></div>
+			</div>
+			<div class='img-container'>
+				<img src='http://res.cloudinary.com/zkriszti/image/upload/v1515155404/orientation/pexels-photo-773049.jpg'>
+				<div class='orientation'></div>	
+			</div>
+		</div>
+		<div id='ls-coll' class='title-coll'>Below are the landscape orientation images:</div>	
+		<div id='landscape-collection' class='img-coll'></div>
+		<div id='p-coll' class='title-coll'>Below are the portrait orientation images:</div>
+		<div id='portrait-collection' class='img-coll'></div>	
+	</body>
+
+	<footer><script src="orientation.js"></script></footer>

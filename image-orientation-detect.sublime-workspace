@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"side",
+				"sideNavTitle"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"sid",
+				"sidebar"
+			],
+			[
+				"si",
+				"sideNavTitleChildrenItems"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddig",
+				"padding-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"s",
+				"switch\tswitch …"
+			],
+			[
+				"section",
+				"section_important"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"fil",
+				"fieldheader_nr"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"main_",
+				"main_textblock_1_header"
+			],
+			[
+				"demo",
+				"ask-for-a-demo"
+			],
+			[
+				"back",
+				"back-arrow-double"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-variant"
+			],
+			[
+				"fs_r",
+				"fs_reference_in_about_content"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"pop",
+				"popuphover2"
+			],
+			[
+				"alig",
+				"align-self"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"animation-",
+				"animation-name"
+			],
+			[
+				"close",
+				"close_exists"
+			],
+			[
+				"qu",
+				"queried_post"
+			],
+			[
+				"post_",
+				"post_id"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"Se",
+				"Semibold"
+			],
+			[
+				"B",
+				"Bold"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"hig",
+				"highlights_title"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"high",
+				"highlight_post"
+			],
+			[
+				"frees",
+				"freesoft_highlights_postslist"
+			],
+			[
+				"Bo",
+				"Bold-Italic"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"freesoft",
+				"freesoft_customizer"
+			],
+			[
+				"Fr",
+				"Freesoft"
+			],
+			[
+				"freeso",
+				"freesoft-footer-contact-phone"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"ceil",
+				"ceil"
+			],
+			[
+				"es",
+				"estText"
+			],
+			[
+				"p",
+				"page"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ddd",
+				"DDDDDD"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1969,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "orientation.css",
+			"settings":
+			{
+				"buffer_size": 1350,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "* {box-sizing: border-box;}"
+			}
+		},
+		{
+			"file": "orientation.js",
+			"settings":
+			{
+				"buffer_size": 899,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "gi",
+		"selected_items":
+		[
+			[
+				"gi",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"Insta",
+				"GitHub: Open Starred Gist in Editor"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Kriszti/Documents/GitHub/atm-simulator/atm-sim.html",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/omf_s/pricing.php",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/omf_s/style.css",
+		"/C/Users/Kriszti/Desktop/info.php",
+		"/C/Users/Kriszti/Desktop/.htaccess",
+		"/C/Users/Kriszti/Desktop/map.html",
+		"/C/Users/Kriszti/Desktop/temp.html",
+		"/C/Users/Kriszti/Desktop/functions_20171207.php",
+		"/C/Users/Kriszti/Desktop/startpage.php",
+		"/C/Users/Kriszti/Desktop/functions_backup.php",
+		"/C/Users/Kriszti/Documents/GitHub/ColorClock/colorclock.js",
+		"/C/Users/Kriszti/Documents/GitHub/ColorClock/colorclock.css",
+		"/C/Users/Kriszti/Documents/GitHub/ColorClock/index.html",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/omf_s/header.php",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/csomagok.html",
+		"/C/Users/Kriszti/Documents/GitHub/JavaScript30/02 - JS and CSS Clock/index-START.html",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/omf_s/sidebar.php",
+		"/C/Kriszti/WebDEV/OMF/omfphotography.hu/website/omf_s/template-parts/content-page.php",
+		"/C/Users/Kriszti/Documents/GitHub/pyramid/pyramid-layout.js",
+		"/C/Users/Kriszti/Documents/GitHub/pyramid/pyramid-style.css",
+		"/C/Users/Kriszti/Documents/GitHub/pyramid/index.html",
+		"/C/Users/Kriszti/Documents/GitHub/random-string/index.html",
+		"/C/Users/Kriszti/Documents/GitHub/random-string/randomstring.html",
+		"/C/Users/Kriszti/Documents/GitHub/random-string/randomstring.js",
+		"/C/Users/Kriszti/Documents/GitHub/random-string/rstring-styles.css",
+		"/C/Users/Kriszti/Documents/GitHub/atm-simulator/atm-styles.css",
+		"/C/Users/Kriszti/Documents/GitHub/atm-simulator/atm-sim.js",
+		"/C/Users/Kriszti/Documents/GitHub/JavaScript30/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/style.css",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/footer.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/map.js",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/tab-block-frontpage.js",
+		"/C/Users/Kriszti/Documents/GitHub/JavaScript30/01 - JavaScript Drum Kit/index-START.html",
+		"/C/wamp/www/pwdizz/site/templates/blog.php",
+		"/C/wamp/www/pwdizz/site/modules/MarkupBlog/MarkupBlog.module",
+		"/C/wamp/www/pwdizz/site/templates/blog-post.php",
+		"/C/Kriszti/WebDEV/atm.js",
+		"/C/Users/Kriszti/Desktop/functions.php",
+		"/C/wamp/www/pwdizz/site/templates/styles/custom.css",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp23192/public_html/site/templates/styles/custom.css",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp23693/public_html/site/templates/styles/custom.css",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp19084/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp19752/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp17262/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp37376/public_html/site/templates/_head.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp38703/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp28935/public_html/site/templates/_head.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp28891/public_html/site/templates/home.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp15807/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp14263/public_html/site/templates/home.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp13743/public_html/site/templates/_head.php",
+		"/C/wamp/www/pwdizz/site/templates/blog-tag.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp08079/public_html/site/templates/scripts/main.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp06351/public_html/site/templates/_head.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp05847/public_html/site/templates/home.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp33433/startpage.php",
+		"/C/Kriszti/WebDEV/VERESITHETA/theta_css_20171201/style.css",
+		"/C/Kriszti/WebDEV/WEBDIZZ/webdizz_backup_20171124_wp/webdizz_files/wp-config.php",
+		"/C/wamp/www/pwdizz/site/templates/blog-tags.php",
+		"/C/wamp/www/pwdizz/site/templates/blog-categories.php",
+		"/C/wamp/www/pwdizz/site/modules/MarkupBlog/ProcessBlog.module",
+		"/C/wamp/www/pwdizz/site/modules/MarkupBlog/template-files/blog-categories.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/startpage.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/functions.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/videodefer.js",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/demomailsent.js",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/dynamicfaq.php",
+		"/C/wamp/www/pwdizz/site/templates/_foot.php",
+		"/C/wamp/www/pwdizz/site/templates/scripts/main.js",
+		"/C/wamp/www/pwdizz/site/templates/basic-page.php",
+		"/C/wamp/www/pwdizz/site/templates/blog-category.php",
+		"/C/wamp/www/pwdizz/site/templates/home.php",
+		"/C/wamp/www/pwdizz/site/templates/blog-main.inc",
+		"/C/wamp/www/pwdizz/site/templates/_head.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp46933/public_html/templates/pilatesmskppstdi/js/brackets-wo-readmore.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp02246/public_html/templates/pilatesmskppstdi/frontpage.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp51268/public_html/templates/pilatesmskppstdi/frontpage.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp40046/public_html/wp-content/themes/theta_on_skeleton/header.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp39593/public_html/wp-content/themes/theta_on_skeleton/header.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp38975/public_html/wp-content/themes/theta_on_skeleton/header.php",
+		"/C/wamp/www/thetahid/wp-content/themes/theta_on_skeleton/header.php",
+		"/C/wamp/www/thetahid/wp-content/themes/theta_on_skeleton/footer.php",
+		"/C/wamp/www/pwdizz/site/templates/portfolio.php",
+		"/C/wamp/www/zaveczkriszti/site/templates/footer.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp10536/public_html/.htaccess",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp29574/public_html/templates/pilatesmskppstdi/frontpage.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp28993/public_html/templates/pilatesmskppstdi/frontpage.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp28115/public_html/index.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp47488/public_html/.htaccess",
+		"/C/wamp/www/thetahid_dev/.htaccess",
+		"/C/wamp/www/thetahid/.htaccess",
+		"/C/wamp/www/thetahid/wp-config.php",
+		"/C/wamp/www/thetahid_dev/wp-config.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp47264/public_html/wp-content/themes/theta_on_skeleton/header.php",
+		"/C/Kriszti/WebDEV/theta.sublime-project",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/single.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/search.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/header.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp37305/public_html/wp-config.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp13880/old.weddingdesign.hu/wp-config.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/category-news.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/partners.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/category-customers.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/contactform.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/page.php",
+		"/C/Kriszti/WebDEV/FREESOFT_GABKA/faq-teszt.html",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/twentyseventeen/search.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/hamburger.js",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/about.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/js/faq.js",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp13094/freesoftstaging.weddingdesign.hu/wp-content/themes/freesoft_on_skeleton/js/demomailsent.js",
+		"/C/Users/Kriszti/Desktop/wp_testmessage_error_20171103",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/test.php",
+		"/C/Users/Kriszti/Desktop/omf1101/.htaccess",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp54564/public_html/wp-config.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp32722/public_html/htaccess_old",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp31007/public_html/htaccess_old",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp29534/public_html/.htaccess",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/assets/red_learn_more_small_button_2.png",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp24580/freesoftstaging.weddingdesign.hu/wp-content/themes/freesoft_on_skeleton/about.php",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp41764/freesoftstaging.weddingdesign.hu/.htaccess",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp41492/freesoftstaging.weddingdesign.hu/old.htaccess",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp25664/freesoftstaging.weddingdesign.hu/wp-admin/error_log",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp24067/freesoftstaging.weddingdesign.hu/wp-admin/error_log",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp30035/freesoftstaging.weddingdesign.hu/wp-content/themes/freesoft_on_skeleton/assets/red_learn_more_small_button.png",
+		"/C/Users/Kriszti/AppData/Local/Temp/scp20241/freesoftstaging.weddingdesign.hu/error_log",
+		"/C/Kriszti/WebDEV/FREESOFT_GABKA/backups/2017_10_11_livesite_duplicator/files_wordpress_untouched/wp-content/themes/freesoft/search.php",
+		"/C/wamp/www/freesoftstaging/wp-content/themes/freesoft_on_skeleton/searchform.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#9e805b",
+			"pulse",
+			"inner",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1911
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "orientation.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1300,
+								1300
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* {box-sizing: border-box;}",
+							"incomplete_sync": null,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "orientation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 899,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
